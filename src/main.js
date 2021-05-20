@@ -1,0 +1,6 @@
+import { createApp } from 'vue'
+import App from './App.vue'
+import './index.css'
+import './components/BaseMap.vue'
+
+createApp(App).mount('#app')
